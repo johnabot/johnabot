@@ -20,7 +20,7 @@
 - :trophy: `2022 Top 5 Solana Bounty Hunters`
 - :technologist: **Currently working on** `Cloud` **&** `Web3`
 - :boom: You can visit [MY PORTFOLIO](https://johnabot.github.io/johnathandoan/) for some small things about me
-- :linkedin: Feel free to **connect** [Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohnathandoan%2F)
+- :linkedin: Feel free to **connect** [Linkedin](https://www.linkedin.com/in/johnathandoan/)
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>

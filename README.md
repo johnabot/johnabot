@@ -20,7 +20,7 @@
 - :trophy: `2022 Top 5 Solana Bounty Hunters`
 - :technologist: **Currently working on** `Cloud` **&** `Web3`
 - :boom: You can visit [MY PORTFOLIO](https://johnabot.github.io/johnathandoan/) for some small things about me
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:johnathanhungdoan@gmail.com)
+- :linkedin: Feel free to **connect** [Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohnathandoan%2F)
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>

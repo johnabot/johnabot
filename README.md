@@ -132,6 +132,4 @@
 
 -----------
 
-Credit: [ElioChiu](https://github.com/ElioChiu)
 
-Last Edited on: 10/7/2023

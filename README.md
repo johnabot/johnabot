@@ -19,7 +19,7 @@
 - :school: I am a `Senior` at [University of Texas at Arlington]([(https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse)])
 - :trophy: `2022 Top 5 Solana Bounty Hunters at HackTX vs Cal Hacks`
 - :technologist: **Currently working on** `Full-Stack` **&** `Web3`
-- :boom: You can visit [MY PORTFOLIO][(https://www.jddoan.com/) for some small things about me
+- :boom: You can visit [MY PORTFOLIO](https://www.jddoan.com/) for some small things about me
 - ![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=LinkedIn) Feel free to **connect** [Linkedin](https://www.linkedin.com/in/johnathandoan/)
 - :nerd_face: Always believe `"You are what you loved"`
 
